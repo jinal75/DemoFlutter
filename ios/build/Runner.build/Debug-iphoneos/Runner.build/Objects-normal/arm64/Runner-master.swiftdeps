@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "a9b34f593184ca84b27f49c1f15b15ae69bd11243f2bcfc138b3f9dbe533c0e7"
+build_start_time: [1657016363, 953703880]
+build_end_time: [1657016364, 770131111]
+inputs:
+  "/Volumes/Flutter Projects/onescreentosecondscreendiffclass/ios/Runner/AppDelegate.swift": !private [1653017679, 0]
